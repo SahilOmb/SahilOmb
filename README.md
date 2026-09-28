@@ -53,7 +53,7 @@ Tools:
 
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=radical&version=2" alt="Top Languages" />
 </div>
 
 </div>
