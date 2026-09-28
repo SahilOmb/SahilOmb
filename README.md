@@ -26,7 +26,7 @@
 💬 **Ask me about:** Java frameworks (Spring Boot), PHP, frontend practices, and AI integration  
 ⚡ **Fun fact:** When I’m not coding, I’m exploring new tech trends or building side projects that challenge me  
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -53,11 +53,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="45"/>
 </p>
 
----
+
 
 <div align="center">
-  <h2>📊 GitHub Metrics</h2>
-  <br />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
