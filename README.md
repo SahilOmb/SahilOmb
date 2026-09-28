@@ -25,10 +25,10 @@
 👯 **I’m looking to collaborate on:** Open-source projects, Full-stack development, and AI-integrated web apps  
 💬 **Ask me about:** Java frameworks (Spring Boot), PHP, frontend practices, and AI integration  
 ⚡ **Fun fact:** When I’m not coding, I’m exploring new tech trends or building side projects that challenge me  
+<br>
 
 
-
-### <h1 align="center">🛠️ Tech Stack</h1>
+ <h4 align="center">🛠️ Tech Stack</h4>
 
 <p>
 Langs & Frameworks:
