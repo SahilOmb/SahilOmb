@@ -5,9 +5,18 @@
 
 🚀 Aspiring Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
 
-🎓 Computer Science Grad | Completed Full Stack Java Developer Course (3 months, project-based)
+🎓 Computer Science Grad | Completed Full Stack Java Developer Course 
 <br>
-
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=SahilOmb&theme=dark&hide_border=false" alt="Sahil's GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 🛠️ Tech Stack:  <br>
 Languages
@@ -26,16 +35,7 @@ Languages
 - 📫 How to reach me: sahilombale22@gmail.com , https://www.linkedin.com/in/sahil-ombale/
 - 💬 Ask me about: Full Stack Development, Java frameworks, React practices, and AI integration.
 - ⚡ Fun fact: When I’m not coding, I’m exploring new tech trends or building side projects that challenge me.
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=SahilOmb&theme=dark&hide_border=false" alt="Sahil's GitHub Streak" />
-    </td>
-  </tr>
-</table>
+
 
 
 
