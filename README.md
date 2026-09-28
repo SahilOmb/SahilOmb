@@ -26,13 +26,16 @@ Languages
 - 📫 How to reach me: sahilombale22@gmail.com , https://www.linkedin.com/in/sahil-ombale/
 - 💬 Ask me about: Full Stack Development, Java frameworks, React practices, and AI integration.
 - ⚡ Fun fact: When I’m not coding, I’m exploring new tech trends or building side projects that challenge me.
-
-📊 **GitHub Stats**  
-![Sahil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical) <br>
-
-**My Stats**
-
-![](https://streak-stats.demolab.com/?user=SahilOmb&theme=dark&hide_border=false)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=SahilOmb&theme=dark&hide_border=false" alt="Sahil's GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 
 
