@@ -63,9 +63,6 @@
 <br>
 <table>
   <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://pngaaa.com" alt="Uncle Iroh" width="150px">
-    </td>
     <td width="75%" valign="middle">
       <blockquote>
         "Destiny is a funny thing. You never know how things are going to work out. But if you keep an open mind and an open heart, I promise you will find your own destiny someday."
