@@ -60,3 +60,18 @@
 </div>
 
 📫 Reach me at : [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilomble22@gmail.com) 
+<br>
+<table>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://pngaaa.com" alt="Uncle Iroh" width="150px">
+    </td>
+    <td width="75%" valign="middle">
+      <blockquote>
+        "Destiny is a funny thing. You never know how things are going to work out. But if you keep an open mind and an open heart, I promise you will find your own destiny someday."
+        <br><br>
+        — <strong>Uncle Iroh</strong>, <em>Avatar: The Last Airbender</em>
+      </blockquote>
+    </td>
+  </tr>
+</table>
