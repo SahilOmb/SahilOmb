@@ -13,7 +13,8 @@
       <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=SahilOmb&theme=dark&hide_border=false" alt="Sahil's GitHub Streak" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=radical&version=2" alt="Top Languages" />
+      <!--<img src="https://streak-stats.demolab.com/?user=SahilOmb&theme=dark&hide_border=false" alt="Sahil's GitHub Streak" />-->
     </td>
   </tr>
 </table>
@@ -56,7 +57,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=radical&version=2" alt="Top Languages" />
 </div>
 
 <!--📫 Reach me at : [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilomble22@gmail.com) -->
