@@ -9,10 +9,10 @@
 <br>
 <table border="0" width="100%">
   <tr>
-    <td width="40%" align="center">
+    <td width="45%" align="center">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=radical&version=2" alt="Top Languages" width="100%" />
     </td>
-    <td width="60%" align="center">
+    <td width="55%" align="center">
       <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" width="100%" />
     </td>
   </tr>
