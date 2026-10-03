@@ -3,9 +3,10 @@
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSahilOmb&label=Visitors+&icon=robot&color=%23198754&message=&style=for-the-badge&tz=UTC">
 </p>
 
-🚀 Aspiring Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
+🎓 Aspiring Full Stack Developer | Java • Spring Boot • React • AI Enthusiast | Computer Science Grad
 
-🎓 Computer Science Grad | Completed Full Stack Java Developer Course 
+I'm a Computer Science grad and an aspiring Full Stack Developer who simply loves building things from scratch. I'm someone who genuinely enjoys the process of breaking, fixing, and figuring things out as I create 🚀—all heavily powered by coffee ☕.
+
 <br>
 <table border="0" width="100%">
   <tr>
