@@ -10,10 +10,11 @@
 <table border="0">
   <tr>
     <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=radical&version=2" alt="Top Languages" />
       <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" />
     </td>
     <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=radical&version=2" alt="Top Languages" />
+         <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" />
       <!--<img src="https://streak-stats.demolab.com/?user=SahilOmb&theme=dark&hide_border=false" alt="Sahil's GitHub Streak" />-->
     </td>
   </tr>
