@@ -29,6 +29,8 @@ I'm a Computer Science grad and an aspiring Full Stack Developer who simply love
 ⚡ **Fun fact:** When I’m not coding, I’m exploring new tech trends or building side projects that challenge me  
 <br>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-ombale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilombale222@gmail.com) 
 
  <h2 align="center">🛠️ Tech Stack</h2>
 
