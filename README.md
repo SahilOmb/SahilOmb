@@ -11,10 +11,10 @@ I'm a Computer Science grad and an aspiring Full Stack Developer who simply love
 <table border="0" width="100%">
   <tr>
     <td width="45%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=radical&version=3" alt="Top Languages" width="100%" /> 
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=vue-dark&version=3" alt="Top Languages" width="100%" /> 
     </td>
     <td width="55%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=vue-dark" alt="Sahil's GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
