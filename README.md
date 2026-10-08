@@ -8,6 +8,7 @@
 I'm a Computer Science grad and an aspiring Full Stack Developer who simply loves building things from scratch. I'm someone who genuinely enjoys the process of breaking, fixing, and figuring things out as I create 🚀—all heavily powered by coffee ☕.
 
 <br>
+<!--
 <table border="0" width="100%">
   <tr>
     <td width="43.5%" align="center">
@@ -18,6 +19,13 @@ I'm a Computer Science grad and an aspiring Full Stack Developer who simply love
     </td>
   </tr>
 </table>
+-->
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=gotham&version=3&hide_border=true" alt="Top Languages" width="40.0%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=gotham&hide_border=true" alt="Sahil's GitHub Stats" width="53.0%" />
+</p>
 
 
 ### 🚀 About Me
@@ -30,7 +38,7 @@ I'm a Computer Science grad and an aspiring Full Stack Developer who simply love
 <br>
 
 
- 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/> 
