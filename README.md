@@ -22,9 +22,9 @@ I'm a Computer Science grad and an aspiring Full Stack Developer who simply love
 -->
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=SahilOmb&show_icons=true&theme=gotham&hide_border=true" alt="Sahil's GitHub Stats" width="58.0%" height = "50%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=SahilOmb&show_icons=true&theme=gotham&hide_border=true" alt="Sahil's GitHub Stats" width="58.0%" height = "50%"/>
   &nbsp;&nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=gotham&version=4&hide_border=true&version=2&langs_count=10" alt="Top Languages" width="38.0%"height="50%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahilOmb&layout=compact&theme=gotham&version=4&hide_border=true&version=2&langs_count=10" alt="Top Languages"width="38.0%"height="50%" />
 </p>
 
 
