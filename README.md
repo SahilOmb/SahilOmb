@@ -1,7 +1,11 @@
 <h1 align="center"><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">Hi, I'm Sahil</h1>
+
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=FullStack+Developer;Computer+Science+Grad+%7C+AI+Enthusiast;Java+%7C+Spring+Boot+%7C+React" /><br>
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSahilOmb&label=Visitors+&icon=robot&color=%23198754&message=&style=for-the-badge&tz=UTC">
 </p>
+
+
 
 🎓 Aspiring Full Stack Developer | Java • Spring Boot • React • AI Enthusiast | Computer Science Grad
 
