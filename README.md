@@ -7,7 +7,6 @@
 <!--
 <h1 align="center"><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">Hi, I'm Sahil</h1>
 -->
-🎓 Aspiring Full Stack Developer | Java • Spring Boot • React • AI Enthusiast | Computer Science Grad
 
 I'm a Computer Science grad and an aspiring Full Stack Developer who simply loves building things from scratch. I'm someone who genuinely enjoys the process of breaking, fixing, and figuring things out as I create 🚀—all heavily powered by coffee ☕.
 
