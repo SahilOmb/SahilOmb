@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,100:52b788&height=110&section=header&text=Hi%20Im%20Sahil&fontSize=50&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1b4332,100:52b788&height=100&section=header&text=Hi%20Im%20Sahil&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=FullStack+Developer;Computer+Science+Grad;Java+%7C+Spring+Boot+%7C+React" /><br>
