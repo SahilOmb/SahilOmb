@@ -1,5 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,100:52b788&height=100&section=header&text=Hi%2C%20I%27m%20Sahil&fontSize=40&fontColor=ffffff" />
-<!--<h1 align="center"><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">Hi, I'm Sahil</h1>-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,100:52b788&height=65&section=header&text=&fontSize=40&fontColor=ffffff" />
+<h1 align="center"><img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">Hi, I'm Sahil</h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=FullStack+Developer;Computer+Science+Grad;Java+%7C+Spring+Boot+%7C+React" /><br>
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSahilOmb&label=Visitors+&icon=robot&color=%23198754&message=&style=for-the-badge&tz=UTC">
